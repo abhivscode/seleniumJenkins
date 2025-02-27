@@ -1,0 +1,15 @@
+{
+  "login": {
+    "valid": {
+      "username": "testuser",
+      "password": "testpass"
+    },
+    "invalid": {
+      "username": "invaliduser",
+      "password": "wrongpass"
+    }
+  },
+  "search": {
+    "query": "Laptop"
+  }
+}

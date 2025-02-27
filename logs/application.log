@@ -1,0 +1,167 @@
+2024-11-24T16:47:49,995 [main] INFO : Setting up WebDriver
+2024-11-24T16:48:01,542 [main] INFO : Driver quit
+2024-11-24T16:48:01,547 [main] INFO : Setting up WebDriver
+2024-11-24T16:48:08,842 [main] INFO : Driver quit
+2024-11-24T16:51:03,231 [main] INFO : Setting up WebDriver
+2024-11-24T16:51:15,000 [main] INFO : Driver quit
+2024-11-24T16:51:15,005 [main] INFO : Setting up WebDriver
+2024-11-24T16:51:32,087 [main] INFO : Driver quit
+2024-11-24 16:54:38 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-24 16:54:48 [main] INFO  tests.BaseTest - Driver quit
+2024-11-24 16:54:48 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-24 16:54:55 [main] INFO  tests.BaseTest - Driver quit
+2024-11-24 16:58:59 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-24 16:59:11 [main] INFO  tests.BaseTest - valid login successful
+2024-11-24 16:59:11 [main] INFO  tests.BaseTest - Driver quit
+2024-11-24 17:10:30 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-24 17:10:41 [main] INFO  tests.BaseTest - Driver quit
+2024-11-24 17:10:41 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-24 17:11:04 [main] INFO  tests.BaseTest - valid login successful
+2024-11-24 17:11:04 [main] INFO  tests.BaseTest - Driver quit
+2024-11-24 17:11:24 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-24 17:11:34 [main] INFO  tests.BaseTest - Driver quit
+2024-11-24 17:11:34 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-24 17:11:39 [main] INFO  tests.BaseTest - Driver quit
+2024-11-24 17:11:39 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-24 17:11:45 [main] INFO  tests.BaseTest - valid login successful
+2024-11-24 17:11:46 [main] INFO  tests.BaseTest - Driver quit
+2024-11-24 17:15:03 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-24 17:15:17 [main] INFO  tests.BaseTest - Driver quit
+2024-11-24 17:15:17 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-24 17:15:23 [main] INFO  tests.BaseTest - Driver quit
+2024-11-24 17:15:23 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-24 17:15:30 [main] INFO  tests.BaseTest - valid login successful
+2024-11-24 17:15:31 [main] INFO  tests.BaseTest - Driver quit
+2024-11-24 17:17:26 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-24 17:17:37 [main] INFO  tests.BaseTest - Driver quit
+2024-11-24 17:17:37 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-24 17:17:44 [main] INFO  tests.BaseTest - valid login successful
+2024-11-24 17:17:45 [main] INFO  tests.BaseTest - Driver quit
+2024-11-24 18:05:01 [main] INFO  tests.BaseTest - Driver initialized successfully
+2024-11-24 18:05:01 [main] INFO  tests.BaseTest - Driver initialized successfully
+2024-11-24 18:05:01 [main] INFO  tests.BaseTest - Driver initialized successfully
+2024-11-24 18:05:56 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-24 18:06:17 [main] INFO  tests.BaseTest - Driver quit
+2024-11-24 18:06:17 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-24 18:06:26 [main] INFO  tests.BaseTest - Driver quit
+2024-11-24 18:06:26 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-24 18:06:33 [main] INFO  tests.BaseTest - valid login successful
+2024-11-24 18:06:33 [main] INFO  tests.BaseTest - Driver quit
+2024-11-24 18:56:37 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-24 18:56:47 [main] INFO  tests.BaseTest - Driver quit
+2024-11-24 18:56:47 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-24 18:56:52 [main] INFO  tests.BaseTest - Driver quit
+2024-11-24 18:56:52 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-24 18:57:06 [main] INFO  tests.BaseTest - valid login successful
+2024-11-24 18:57:06 [main] INFO  tests.BaseTest - Driver quit
+2024-11-24 19:04:24 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-24 19:04:34 [main] INFO  tests.BaseTest - Driver quit
+2024-11-24 19:04:34 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-24 19:04:39 [main] INFO  tests.BaseTest - Driver quit
+2024-11-24 19:04:39 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-24 19:04:46 [main] INFO  tests.BaseTest - Driver quit
+2024-11-24 19:05:49 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-24 19:05:58 [main] INFO  tests.BaseTest - Driver quit
+2024-11-24 19:06:32 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-24 19:06:42 [main] INFO  tests.BaseTest - Driver quit
+2024-11-24 19:08:01 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-24 19:08:11 [main] INFO  tests.BaseTest - Driver quit
+2024-11-24 19:11:03 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-24 19:11:15 [main] INFO  tests.BaseTest - valid login successful
+2024-11-24 19:11:16 [main] INFO  tests.BaseTest - Driver quit
+2024-11-24 19:20:12 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-24 19:20:24 [main] INFO  tests.BaseTest - valid login successful
+2024-11-24 19:20:25 [main] INFO  tests.BaseTest - Driver quit
+2024-11-30 08:54:27 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-30 08:54:37 [main] INFO  tests.BaseTest - Driver quit
+2024-11-30 08:54:37 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-30 08:54:42 [main] INFO  tests.BaseTest - Driver quit
+2024-11-30 08:54:42 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-30 08:54:49 [main] INFO  tests.BaseTest - valid login successful
+2024-11-30 08:54:50 [main] INFO  tests.BaseTest - Driver quit
+2024-11-30 09:57:48 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-30 09:58:04 [main] INFO  tests.BaseTest - valid login successful
+2024-11-30 09:58:05 [main] INFO  tests.BaseTest - Driver quit
+2024-11-30 10:10:57 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-30 10:11:09 [main] INFO  tests.BaseTest - Driver quit
+2024-11-30 10:11:09 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-30 10:11:15 [main] INFO  tests.BaseTest - valid login successful
+2024-11-30 10:11:16 [main] INFO  tests.BaseTest - Driver quit
+2024-11-30 10:15:04 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-30 10:15:18 [main] INFO  tests.BaseTest - valid login successful
+2024-11-30 10:15:18 [main] INFO  tests.BaseTest - Driver quit
+2024-11-30 10:16:27 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-30 10:16:35 [main] INFO  tests.BaseTest - valid login successful
+2024-11-30 10:16:36 [main] INFO  tests.BaseTest - Driver quit
+2024-11-30 10:18:13 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-30 10:18:21 [main] INFO  tests.BaseTest - valid login successful
+2024-11-30 10:18:22 [main] INFO  tests.BaseTest - Driver quit
+2024-11-30 10:33:51 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-30 10:34:05 [main] INFO  tests.BaseTest - valid login successful
+2024-11-30 10:34:06 [main] INFO  tests.BaseTest - Driver quit
+2024-11-30 10:51:59 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-30 10:52:19 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-30 10:53:30 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-30 11:02:06 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-30 11:05:27 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-30 11:06:29 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-30 11:07:23 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-30 11:08:05 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-30 11:08:46 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-30 11:09:16 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-30 11:12:25 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-30 11:12:36 [main] INFO  tests.BaseTest - Driver quit
+2024-11-30 11:16:45 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-30 11:17:01 [main] INFO  tests.BaseTest - valid login successful
+2024-11-30 11:17:02 [main] INFO  tests.BaseTest - Driver quit
+2024-11-30 11:18:46 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-30 11:19:08 [main] INFO  tests.BaseTest - valid login successful
+2024-11-30 11:19:09 [main] INFO  tests.BaseTest - Driver quit
+2024-11-30 11:19:59 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-30 11:20:19 [main] INFO  tests.BaseTest - valid login successful
+2024-11-30 11:20:20 [main] INFO  tests.BaseTest - Driver quit
+2024-11-30 11:27:47 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-30 11:28:11 [main] INFO  tests.BaseTest - valid login successful
+2024-11-30 11:28:11 [main] INFO  tests.BaseTest - Driver quit
+2024-11-30 11:30:02 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-30 11:30:25 [main] INFO  tests.BaseTest - valid login successful
+2024-11-30 11:30:26 [main] INFO  tests.BaseTest - Driver quit
+2024-11-30 11:32:56 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-30 11:33:19 [main] INFO  tests.BaseTest - valid login successful
+2024-11-30 11:33:19 [main] INFO  tests.BaseTest - Driver quit
+2024-11-30 11:38:53 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-11-30 11:39:04 [main] INFO  pages.LoginPage - clicking on home button
+2024-11-30 11:39:16 [main] INFO  tests.BaseTest - valid login successful
+2024-11-30 11:39:16 [main] INFO  tests.BaseTest - Driver quit
+2024-12-12 13:18:50 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-12-12 13:19:08 [main] INFO  pages.LoginPage - clicking on home button
+2024-12-12 13:19:20 [main] INFO  tests.BaseTest - valid login successful
+2024-12-12 13:19:20 [main] INFO  tests.BaseTest - Driver quit
+2024-12-18 16:54:47 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-12-18 16:55:00 [main] INFO  pages.LoginPage - clicking on home button
+2024-12-18 16:55:13 [main] INFO  tests.BaseTest - valid login successful
+2024-12-18 16:55:13 [main] INFO  tests.BaseTest - Driver quit
+2024-12-18 20:24:31 [TestNG-test=Login Tests-1] INFO  tests.BaseTest - Setting up WebDriver
+2024-12-18 20:27:36 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-12-18 20:28:25 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-12-18 20:29:38 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-12-18 20:29:48 [main] INFO  tests.BaseTest - Setting up WebDriver
+2024-12-18 20:30:30 [main] INFO  tests.BaseTest - Setting up WebDriver
+2025-02-05 22:04:13 [main] INFO  tests.BaseTest - Setting up WebDriver
+2025-02-05 22:04:31 [main] INFO  pages.LoginPage - clicking on home button
+2025-02-05 22:04:43 [main] INFO  tests.BaseTest - valid login successful
+2025-02-05 22:04:43 [main] INFO  tests.BaseTest - Driver quit
+2025-02-06 21:00:32 [main] INFO  tests.BaseTest - Setting up WebDriver
+2025-02-06 21:00:45 [main] INFO  pages.LoginPage - clicking on home button
+2025-02-06 21:00:56 [main] INFO  tests.BaseTest - valid login successful
+2025-02-06 21:00:57 [main] INFO  tests.BaseTest - Driver quit
+2025-02-06 21:06:23 [main] INFO  tests.BaseTest - Setting up WebDriver
+2025-02-06 21:06:45 [main] INFO  tests.BaseTest - Driver quit
+2025-02-06 21:07:55 [main] INFO  tests.BaseTest - Setting up WebDriver
+2025-02-06 21:08:07 [main] INFO  tests.BaseTest - Driver quit
+2025-02-06 21:09:28 [main] INFO  tests.BaseTest - Setting up WebDriver
+2025-02-06 21:09:42 [main] INFO  tests.BaseTest - Driver quit
+2025-02-06 21:11:03 [main] INFO  tests.BaseTest - Setting up WebDriver
+2025-02-06 21:11:12 [main] INFO  pages.LoginPage - clicking on home button
+2025-02-06 21:11:24 [main] INFO  tests.BaseTest - valid login successful
+2025-02-06 21:11:24 [main] INFO  tests.BaseTest - Driver quit
